@@ -1,5 +1,6 @@
 crossrefs
 =========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/rosogon/crossrefs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Just a generator of documents of lists of (item, definition) where
 each item that appears on a definition is linked to the item itself.
